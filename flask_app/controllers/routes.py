@@ -14,9 +14,9 @@ def portfolio():
 def view_projects():
     return render_template("view_projects.html")
 
-@app.route("/portfolio/resume")
+@app.route("/portfolio/contact")
 def view_resume():
-    return render_template("view_resume.html")
+    return render_template("view_contact.html")
 
 @app.route("/portfolio/about")
 def view_aboutme():
