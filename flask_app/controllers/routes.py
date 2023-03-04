@@ -17,3 +17,7 @@ def view_projects():
 @app.route("/portfolio/resume")
 def view_resume():
     return render_template("view_resume.html")
+
+@app.route("/portfolio/about")
+def view_aboutme():
+    return render_template("about_me.html")
