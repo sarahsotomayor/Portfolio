@@ -1,7 +1,7 @@
 # Portfolio
 My portfolio - still a work in progress
 
-## NOT OPEN SOURCE - NOT LICENSED
+## NOT OPEN SOURCE - NOT LICENSED (For now as I am still learning about Licenses)
 
 For anyone that may still not know what that means please see the following:
 
